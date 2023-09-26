@@ -5,11 +5,8 @@
     <a target='_blank' href="https://instagram.com/vitor_f">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/danielheart">
+    <a target='_blank' href="https://linkedin.com/in/vitor-ferreira-003a88228">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://dev.to/vitor-ferreira-003a88228">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
 </div>
 
@@ -21,15 +18,10 @@ On my free time, I like to code random projects that could help me or my friends
 
 ## Detailed information
 * **Name**: Vitor Marostica Ferreira
-* * **Age**: 25
-* * **Living in**: Pederneiras - SP, Brazil
-* * **Stack**: PHP - Laravel - Bootstrap - SQL - CQL - AWS
-* * **University**: Focused on complete my degree
-
-- 🌱 I’m currently learning **Laravel, PHP, Java**
-
-- 📫 How to reach me **vitor.mf@icloud.com**
-
+* **Age**: 25
+* **Living in**: Pederneiras - SP, Brazil
+* **University**: Focused on complete my degree
+- I’m currently learning **Laravel, PHP, Java**
 
 <div align="center">
   <a href="https://github.com/tchowmf">
