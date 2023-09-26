@@ -13,19 +13,25 @@
     </a>
 </div>
 
-<h3 align="center">Passionate about technology.</h3>
 ## Hi there
+
 My name is Vitor Ferreira. I currently live in Pederneiras, SP, Brazil. 
 
 On my free time, I like to code random projects that could help me or my friends with something daily.
+
+## Detailed information
+* **Name**: Vitor Marostica Ferreira
+* * **Age**: 25
+* * **Living in**: Pederneiras - SP, Brazil
+* * **Stack**: PHP - Laravel - Bootstrap - SQL - CQL - AWS
+* * **University**: Focused on complete my degree
 
 - 🌱 I’m currently learning **Laravel, PHP, Java**
 
 - 📫 How to reach me **vitor.mf@icloud.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tchowmf&show_icons=true&locale=en" alt="tchowmf" /></p>
+
 <div align="center">
   <a href="https://github.com/tchowmf">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tchowmf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchowmf&layout=compact&langs_count=7&theme=dark"/>
 </div>
