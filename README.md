@@ -23,7 +23,7 @@ On my free time, I like to code random projects that could help me or my friends
 * **University**: Focused on complete my degree
 - I’m currently learning **Laravel, PHP, Java**
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/tchowmf">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tchowmf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
