@@ -21,7 +21,7 @@ On my free time, I like to code random projects that could help me or my friends
 * **Age**: 25
 * **Living in**: Pederneiras - SP, Brazil
 * **University**: Focused on complete my degree
-- I’m currently learning: **Laravel, PHP, Java**
+* I’m currently studying: **Laravel, PHP, Java, JavaScript, C#, Go**
 
 <div align="left">
   <a href="https://github.com/tchowmf">
